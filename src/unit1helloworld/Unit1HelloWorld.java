@@ -93,6 +93,18 @@ public class Unit1HelloWorld
       	System.out.println(helloStr + ", " + nbrStr + exclStr);
       	System.out.println(byeStr + ", " + cruelStr + " " + worldStr + exclStr);
     */
+    
+    // exercise 1
+    /*
+        String outStr = "Hello, neighbor!";
+        System.out.println(outStr);
+        
+        run:
+        Hello, neighbor!
+        BUILD SUCCESSFUL (total time: 0 seconds)
+    */
+        
+        
     }
     
 }
