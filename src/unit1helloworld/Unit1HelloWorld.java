@@ -103,8 +103,15 @@ public class Unit1HelloWorld
         Hello, neighbor!
         BUILD SUCCESSFUL (total time: 0 seconds)
     */
+    // exercise 2
+    /*
+        String outStr = "Goodbye, ";
+        System.out.println(outStr + "cruel world!");
         
-        
+        run:
+        Goodbye, cruel world!
+        BUILD SUCCESSFUL (total time: 0 seconds)
+    */
     }
     
 }
